@@ -3,7 +3,7 @@
 <!--   <a target="_blank" rel="noopener noreferrer" href="https://github.com/programvidhi89/programvidhi89/blob/master/2021Stats.gif"><img src="https://github.com/programvidhi89/programvidhi89/blob/master/2021Stats.gif" style="max-width: 100%;"></a> -->
 <!--     <h2>Watch my contribution graph get eaten by the snake 🐍</h2> -->
    
-  <h2>Hi there, I'm <a href="https://personal-portfoliosp.herokuapp.com/">Vidhi Rajvanshi</a> <img src="https://media.giphy.com/media/ltu3chhH9nbtYx36Bd/giphy.gif" width="30"></h2>
+  <h2>Hi there, I'm Vidhi Rajvanshi <img src="https://media.giphy.com/media/ltu3chhH9nbtYx36Bd/giphy.gif" width="30"></h2>
 
   <h2>I am an UnderGraduate and a FrontEnd Web Developer !!</h2>
 
