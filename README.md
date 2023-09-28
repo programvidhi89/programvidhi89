@@ -7,7 +7,7 @@
 
   <h2>I am an UnderGraduate and a FrontEnd Web Developer !!</h2>
 
-  - <h4>🏡 Third year Computer Science student at CGC Landran,Mohali.</h4>
+  - <h4>🏡 Fourth year Computer Science student at CGC Landran,Mohali.</h4>
   - <h4>💻 I am currently learning Web Developemt and DSA.</h4>
   - <h4>🌐 I have also explored world of Java</h4>
   <br />
